@@ -7,14 +7,7 @@ import TodoList from './components/TodoList';
 
 function App() {
   return (
-    <div className='todo-app'>
-      
-      
-      <div className='Login_button'>
-      
-        <button type='button'> login </button>
-        
-        </div>  
+    <div className='todo-app'>  
       <TodoList/>
     </div>
     
